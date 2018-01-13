@@ -20,3 +20,6 @@ _Què he fet en relació a la versió anterior?_
 - Testejat que la nau aterri correctament si va a la velocitat adequada i que exploti si arriba massa aviat. 
 
 - Afegida versió minimificada. 
+
+
+#[Link directe a versió a Rawgit](https://rawgit.com/jordigithub1/lunarlander2/master/index.html)

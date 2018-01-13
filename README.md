@@ -1,7 +1,7 @@
 # LunarLander
 Jordi Vallespir
 
-##Què he fet en relació a la versió anterior?##
+#Què he fet en relació a la versió anterior?#
 
 - Ajustar diferents apartats del css i optimitzar les imatges. Ara les 5 imatges utilitzades (d'alt realisme i amb efectes de llum en encendre el propulsor) pesen només 280 kb en total. 
 

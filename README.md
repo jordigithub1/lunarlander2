@@ -7,7 +7,7 @@ _Què he fet en relació a la versió anterior?_
 
 - Revisió de l'indentat del codi. 
 
-- Validació: he fet la validació d'index.html a https://validator.w3.org/nu/#textarea, resultat: "Document checking completed. No errors or warnings to show.". [Enllaç directe](https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%2Fjordigithub1%2Flunarlander2%2Fmaster%2Findex.html) 
+- Validació: he fet la validació d'index.html a https://validator.w3.org/nu/#textarea, resultat: "Document checking completed. No errors or warnings to show". ([Enllaç directe](https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%2Fjordigithub1%2Flunarlander2%2Fmaster%2Findex.html))
 
 - Reforç de la versió mòbil, ara respon millor i hi ha major coherència entre els dos css. 
 

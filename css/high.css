@@ -1,0 +1,217 @@
+body,html{
+    height:100%;
+    padding:0px;
+    margin:0px;
+    background-image: url("../img/espai.png");
+    background-size: 40%; 
+    font-family: 'Verdana', cursive;
+    cursor: default;   
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.c{display:block !important}
+.a,.b{display:inline-block;width:33.33%;height:100%;float:left;}
+
+.d{
+    background-color: #black;
+    background-image: url("../img/lluna.png");
+    background-size: 30%;
+    background-repeat: repeat-x;
+    height:7%;
+    width:100%;
+    position:fixed;
+    bottom:0px
+}
+
+.elementmenu {
+    display: block;
+    background-color: grey;
+	font-size: 1.4vw;
+    text-align: center;
+    color: white;
+    float:left;
+    width: 12%;
+    border:3px grey outset;
+    border-radius: 33px;
+    margin:0;
+    overflow: hidden;
+	text-decoration: none;
+    margin-top:15px;
+    margin-left:10px;
+}
+
+.elementmenu:hover, .divEmergente li:hover,#rejugar:hover {
+    background-color: darkgray;
+    color:yellow;
+    border: 3px grey outset;  
+}
+
+.textpanell{
+    font-family: 'Arial', sans-serif;
+    font-size: 1.4vw;
+    border: 2px solid;
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+    padding: 2% 3%;
+}
+
+.divEmergente{
+    color: grey;
+    background-color: black;
+    position: fixed;
+    width: 50%;
+    padding: 1% 1%;
+    border: 3px grey solid;
+    border-radius: 33px;
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 3;
+    display:none;
+}
+
+.divEmergente h1{
+    font-family: 'Courier', sans-serif;
+    background-color: black;
+    font-weight: bold;
+	font-size: 3vw;
+    text-align: center;
+    color: white;
+    border: 3px darkgray outset;
+    border-radius: 10px;
+    width: 50%;
+    margin: 1% auto;
+    overflow: hidden;  
+}
+
+.divEmergente li,#rejugar, #bienvenidaJugar{
+    background-color: grey;
+    font-weight: bold;
+	font-size: 1.75vw;
+    text-align: center;
+    color: white;
+    border: 3px grey outset;
+    border-radius: 33px;
+    margin: 1% auto;
+    overflow: hidden; 
+}
+
+.llistaPausa{
+    display:block;
+    width: 35%;
+}
+
+.llistaOpciones{
+    display:inline-block;
+    width: 25%;
+}
+
+.textsemergents{
+    background-color: black;
+    text-align: center;
+    color: white;
+   	font-size: 1.5vw;
+    padding: 1% 2%;
+}
+
+#cpanel{
+	position: fixed;
+    background-color: black;
+    width: 20%;
+    padding: 1% 1%;
+    border: 3px grey solid;
+    border-radius: 30px;
+    top: 9%;
+    left: 2%;
+}
+
+#menu {
+    position:fixed;
+    width:100%;
+    top: 0%;
+    z-index: 2;
+}
+
+#hidem,#showm{display:none}
+
+#divBienvenida p, #divinstrucciones p, #textsAbout{
+    font-family: 'Courier', sans-serif;
+    font-size: 1.5vw;
+    text-align: justify;
+    font-weight: bold;
+}
+
+#divBienvenida h1{
+    width:50%;
+}
+
+#bienvenidaJugar {
+    width:20%;
+}
+
+#divopciones{
+    width: 60%;
+}
+
+#divopciones ul{
+    text-align: center;
+    margin: 0% auto;
+}
+
+#textNivel{
+    font-size: 1.5vw;
+}
+
+#divabout p{
+    font-size: 1.75vw;
+    text-align: center;
+    font-weight: bold;
+}
+
+#divFinaljoc{
+    z-index: 2;
+}
+
+#textFin{
+    margin: 3%;
+    font-size: 1.4vw;
+}
+
+#rejugar{width: 35%}
+
+#nau{text-align:center;position:fixed;top:16%;width:100%;height:20%;z-index:1}
+#naveimg{height:100%;}
+
+#about{
+    background-color: grey;
+    color: white;
+    float:right;
+    width: 10%;
+    border: 3px gray outset;
+    margin-top:15px;
+    margin-right:10px;
+}
+
+#about:hover{
+    background-color: darkgray;
+    color: yellow;
+    float:right;
+    width: 10%;
+    border: 3px gray outset;
+}
+
+.movil, .tornarmobil{display:none}
+
+#facilNivel{
+    text-decoration: none;
+    background-color: darkgrey;
+    color:White;
+    border: 5px grey outset;  
+}

@@ -22,4 +22,4 @@ _Què he fet en relació a la versió anterior?_
 - Afegida versió minimificada. 
 
 
-*[Link directe a versió a Rawgit](https://rawgit.com/jordigithub1/lunarlander2/master/index.html)*
+![Link a LunarLander des de Rawgit](https://rawgit.com/jordigithub1/lunarlander2/master/index.html)*
